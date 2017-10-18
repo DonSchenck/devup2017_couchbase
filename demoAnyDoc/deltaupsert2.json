@@ -1,0 +1,47 @@
+'{
+    "id":3682,
+    "type":"airport",
+    "airportname":"Hartsfield Jackson Atlanta Intl",
+    "city":"Atlanta",
+    "country":"United States",
+    "faa":"ATL",
+    "icao":"KATL",
+    "tz":"America/New_York",
+    "geo":{
+        "lat":33.636719,
+        "lon":-84.428067,
+        "alt":1026.0}
+        , 
+    "lounges": [
+        {
+            "id": "DeltaA",
+            "airline": "Delta",
+            "description": "Delta Sky Club",
+            "location": "Concourse A in center on 2nd level",
+            "amenities": ["Wi-Fi","Charging Stations","Free Newspaper","Food","Bar"
+            ]
+        },
+        {
+            "id": "DeltaA17",
+            "airline": "Delta",
+            "description": "Delta Sky Club",
+            "location": "Concourse A near Gate A17",
+            "amenities": ["Wi-Fi","Charging Stations","Free Newspaper","Food","Bar"
+            ]
+        },
+        {
+            "id": "DeltaB18",
+            "airline": "Delta",
+            "description": "Delta Sky Club",
+            "location": "Concourse AB near Gate B18",
+            "amenities": ["Wi-Fi","Charging Stations","Free Newspaper","Food","Bar"]
+        },
+        {
+            "id": "DeltaF",
+            "airline": "Delta",
+            "description": "Delta Sky Club",
+            "location": "Concourse F, Mezzanine Level",
+            "amenities": ["Wi-Fi","Charging Stations","Shower","Free Newspaper","Food","Bar"]
+        },
+    ]
+}'

@@ -1,0 +1,14 @@
+{
+    "basic": {
+      "enableConfigHeartbeat": false,
+      "servers": [
+        "http://localhost:8091/"
+      ],
+      "buckets": [
+        {
+          "name": "travel-sample",
+          "password": "yourpassword1234$"
+        }
+      ]
+    }
+  }
